@@ -216,4 +216,6 @@ MIT / BSD
 
 ## Author Information
 
-This role was created in 2014 by [Jeff Geerling](http://www.jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
+Steamulo - www.steamulo.com
+
+Forked from [Jeff Geerling](http://www.jeffgeerling.com/)
